@@ -1,39 +1,35 @@
-Términos y Condiciones de Uso
- 
+Terms and conditions of use
 
-INFORMACIÓN RELEVANTE
+RELEVANT INFORMATION
 
-Es requisito necesario para la utilizacion del BOT que se ofrece en Rimuru, que lea y acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros servicios implicará que usted ha leído y aceptado los Términos y Condiciones de Uso en el presente documento. 
+It is a necessary requirement to use the BOT offered on Rimuru that you read and accept the following Terms and Conditions written below. The use of our services will imply that you have read and accepted the Terms and Conditions of Use in this document.
 
-LICENCIA
+LICENSE
 
-Rimuru^^  a través de su bot ofrece proteccion para que utilicen el BOT de acuerdo a los Términos y Condiciones que se describen en este documento.
+Rimuru^^ through its bot offers protection for you to use the BOT according to the Terms and Conditions described in this document.
 
-USO NO AUTORIZADO
+UNAUTHORIZED USE
 
-En caso de que aplique (para venta de Rimuru, templetes, u otro producto de diseño y programación) usted no puede colocar uno de nuestros productos, modificado o sin modificar, en un CD, sitio web o ningún otro medio y ofrecerlos para la redistribución o la reventa de ningún tipo.
+If applicable (for sale of Rimuru, templates, or other design and programming products) you may not place one of our products, modified or unmodified, on a CD, website or any other medium and offer them for redistribution or resale of any kind.
 
-PROPIEDAD
+PROPERTY
 
-Usted no puede declarar propiedad intelectual o exclusiva a ninguno de nuestros bots, modificado o sin modificar. Todos los productos son propiedad de los proveedores del contenido. En caso de que no se especifique lo contrario, nuestros productos se proporcionan sin ningún tipo de garantía, expresa o implícita. En ningún esta compañía será responsables de ningún daño incluyendo, pero no limitado a, daños directos, indirectos, especiales, fortuitos o consecuentes u otras pérdidas resultantes del uso o de la imposibilidad de utilizar nuestros productos.
+You may not claim intellectual or proprietary ownership of any of our bots, modified or unmodified. All products are property of the content providers. Unless otherwise specified, our products are provided without warranty of any kind, express or implied. In no event will this company be liable for any damages including, but not limited to, direct, indirect, special, incidental or consequential damages or other losses resulting from the use or inability to use our products.
 
-POLÍTICA DE REEMBOLSO Y GARANTÍA
+REFUND AND WARRANTY POLICY
 
-En el caso de productos que sean  mercancías irrevocables no-tangibles, no realizamos reembolsos después de que se envíe el producto, usted tiene la responsabilidad de entender antes de comprarlo.  Le pedimos que lea cuidadosamente antes de comprarlo. Hacemos solamente excepciones con esta regla cuando la descripción no se ajusta al producto. Esto incluye:
+In the case of products that are irrevocable non-tangible goods, we do not issue refunds after the product is shipped, it is your responsibility to understand before purchasing. We ask that you read carefully before purchasing it. We only make exceptions to this rule when the description does not fit the product. This includes:
 
-– De acuerdo a las especificaciones técnicas indicadas para cada bot.
-– En condiciones ambientales acorde con las especificaciones indicadas por el desarrolador {$halrraiser}.
-– En uso específico para la función con que fue diseñado de fábrica.
-– En condiciones de operación eléctricas acorde con las especificaciones y tolerancias indicadas.
+– According to the technical specifications indicated for each bot. – In environmental conditions in accordance with the specifications indicated by the developer {$halrraiser}. – In specific use for the function with which it was designed from the factory. – In electrical operating conditions in accordance with the indicated specifications and tolerances.
 
-COMPROBACIÓN ANTIFRAUDE
+ANTI-FRAUD CHECK
 
-NO PUEDE OFRECER/VENDER NINGUN TIPO DE PRODUCTO/BOT DISEÑADO POR HALRRAISER SIN EL PERMISO DE PROPIEDAD DEL MISMO
+YOU CANNOT OFFER/SELL ANY TYPE OF PRODUCT/BOT DESIGNED BY HALRRAISER WITHOUT THE OWNER'S PERMISSION OF THE SAME
 
-PRIVACIDAD
+PRIVACY
 
-Este https://discord.gg/f9wb6PG9Ad garantiza que la información personal que usted envía cuenta con la seguridad necesaria. Los datos ingresados por usuario no serán entregados a terceros, salvo que deba ser revelada en cumplimiento a una orden judicial o requerimientos legales.
+This https://discord.gg/f9wb6PG9Ad ensures that the personal information you submit has the necessary security. The data entered by the user will not be delivered to third parties, unless it must be revealed in compliance with a court order or legal requirements.
 
-Rimuru^^ reserva los derechos de cambiar o de modificar estos términos sin previo aviso.
+Rimuru^^ reserves the rights to change or modify these terms without prior notice.
 
-©Todos los derechos reservados┃® Copyright ©┃2022 - 2025 | by Rimuru^^ 10/12/2023 
+©All rights reserved┃® Copyright ©┃2022 - 2025 | by Rimuru^^ 10/12/2023
